@@ -1,0 +1,13 @@
+
+$abcColor : #090b08;
+$abdColor : #ecffe9;
+$abeColor : #97d279;
+$abfColor : #000;
+$abgColor: #c0eea9;
+$abcPadding: 20px;
+
+
+@mixin starter($align){
+  text-align:$align ;
+  
+}
